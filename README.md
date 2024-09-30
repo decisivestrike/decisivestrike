@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-![greenfish](https://github.com/decisivestrike/decisivestrike/assets/113175008/014e627f-c6b7-44b9-aebb-ee317679f881)
+<!--![greenfish](https://github.com/decisivestrike/decisivestrike/assets/113175008/014e627f-c6b7-44b9-aebb-ee317679f881)-->
 
 <!--### Things I code with
 
