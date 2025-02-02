@@ -1,20 +1,9 @@
-# Hey! Nice to see you.
+<h1 align="center">Hey! Nice to see you. 🗿</h1>
 
-Welcome to my page!
-
-<!--![greenfish](https://github.com/decisivestrike/decisivestrike/assets/113175008/014e627f-c6b7-44b9-aebb-ee317679f881)-->
-
-<!--### Things I code with
-
-<div align = center>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=decisivestrike&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div> -->
+<h3 align="center">Languages</h3>
 
 <div align="center">
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=blue&color=black">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=brown">
+  <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=blue">
 </div>
-
-
