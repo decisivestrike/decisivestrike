@@ -8,7 +8,7 @@ https://shields.io/
 
 <h1 align="center">Hey! Nice to see you. 🗿</h1>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Languages</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-121212?style=for-the-badge&logo=c&logoColor=6296CC">
