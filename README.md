@@ -13,6 +13,7 @@ https://shields.io/
 <div align="center">
   <img src="https://img.shields.io/badge/c-121212?style=for-the-badge&logo=c&logoColor=6296CC">
   <img src="https://img.shields.io/badge/c++-121212?style=for-the-badge&logo=cplusplus&logoColor=6296CC">
+  <img src="https://img.shields.io/badge/python-121212?style=for-the-badge&logo=python&logoColor=6296CC">
   <img src="https://img.shields.io/badge/go-121212?style=for-the-badge&logo=go&logoColor=blue">
   <img src="https://img.shields.io/badge/rust-121212.svg?style=for-the-badge&logo=rust&logoColor=brown">
 </div>
