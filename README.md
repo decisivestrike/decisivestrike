@@ -6,7 +6,11 @@ https://simpleicons.org/
 https://shields.io/
 -->
 
+<img align="center" src="https://github.com/user-attachments/assets/fa37160e-5e49-4288-a66d-d35b353a384e">
+
 <h1 align="center">Hey! Nice to see you. 🗿</h1>
+
+
 
 <h3 align="center">Languages</h3>
 
