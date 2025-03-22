@@ -13,7 +13,7 @@ https://shields.io/
 I'm software developer and computer science enthusiast.
 
 🤖 At the moment I am using:
-<div>
+<!-- <div>
   <img src="https://img.shields.io/badge/c-6296CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -21,4 +21,9 @@ I'm software developer and computer science enthusiast.
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/rust-CE412B.svg?style=for-the-badge&logo=rust&logoColor=white">
+</div> -->
+
+<div>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,go,rust" />
 </div>
+
