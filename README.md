@@ -24,6 +24,6 @@ I'm software developer and computer science enthusiast.
 </div> -->
 
 <div>
-  <img src="https://skillicons.dev/icons?i=c,cs,rust,js" />
+  <img src="https://skillicons.dev/icons?i=arch,gtk,rust" />
 </div>
 
