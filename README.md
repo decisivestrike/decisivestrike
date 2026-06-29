@@ -6,8 +6,8 @@
   
 ```kdl
 languages {
-  primary "Rust" "TypeScript"
-  secondary "C" "Go" "Python"
+  primary "Rust" "Go" "TypeScript"
+  secondary "C" "Python"
 }
 ```
 </div>
